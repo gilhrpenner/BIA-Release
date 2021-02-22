@@ -53,7 +53,7 @@ We are constantly improving and adding new features, our goal and to offer solut
 
 ## reCAPTCHA Solver
 
-Blah blah
+reCAPTCHA is a Captcha System that helps services such as Tribal Wars to distinguish between human and automated bots like BIA. reCAPTCHA uses an advanced risk analysis algorithm that takes every single action you do inside the game and ranks how likely the actions happening is coming from a bot. A challenge is then presented and it blocks the game from continuing. BIA does have a solution for these challenges, we not just optimize it such that these challenges are shown with less frequency but we also mimic human-like behaviour thus reducing captcha challenges. BIA also solves any type of captcha challenges, be it image, audio for text.
 
 ## Tribal Wars Accounts
 
