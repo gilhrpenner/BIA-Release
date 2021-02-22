@@ -28,10 +28,23 @@ In this section, you will find all information you need to get started and confi
 
 # Internationalization
 
-BIA is ready to be played on any Tribal Wars server and any world with the exception of Speed worlds. \
+BIA is ready to be played on any Tribal Wars server and any world with the exception of Speed worlds.\
 We also support many languages and we are always looking for people that are passionate about our bot and wants to improve translations or even translate BIA to a new language.
 
-:brazil:
+:brazil: Brazilian Portuguese is our official language\
+:uk: English is our also our official language\
+
+Here are some of the languages we currently support\
+:czech_republic: Czech\
+:de: German\
+:es: Spanish\
+:fr: French\
+:it: Italian\
+:poland: Polish\
+:slovakia: Slovak\
+:tr: Turkish
+
+If you would like us to support a different language please get in touch.
 
 # Features
 
