@@ -79,6 +79,30 @@ Blah blah
 
 Blah blah
 
+## Organizational Groups
+
+Blah blah
+
+## Auto Farm AS
+
+Blah blah
+
+## Scavenging
+
+Blah blah
+
+## Schedule Commands
+
+Blah blah
+
+## Interactive Map
+
+Blah blah
+
+## Auto Tagging
+
+blah blah
+
 # Safety Considerations
 
 BIA blah blah
