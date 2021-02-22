@@ -32,7 +32,7 @@ BIA is ready to be played on any Tribal Wars server and any world with the excep
 We also support many languages and we are always looking for people that are passionate about our bot and wants to improve translations or even translate BIA to a new language.
 
 :brazil: Brazilian Portuguese is our official language\
-:uk: English is our also our official language\
+:uk: English is our also our official language
 
 Here are some of the languages we currently support\
 :czech_republic: Czech\
