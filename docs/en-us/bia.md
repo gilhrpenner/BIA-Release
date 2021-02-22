@@ -1,11 +1,34 @@
 # BIA Assistant
 
 Welcome to BIA Assistant, the best co-player one can ever wish! 🦹‍♂️
-QMarkdown is a Quasar component as well as a [Quasar App Extension](https://v1.quasar.dev/app-extensions/introduction). It provides the ability for your Quasar app to display markdown. If you don't know how to use Markdown or need a refresher, this site is recommended: [Markdown Guide](https://www.markdownguide.org/).
+In this section, you will find all information you need to get started and configure your account.
+
+# Prerequisites
+
+#### Windows
+
+-   Windows 7 and later are supported
+-   Both x86 and amd64 (x64) binaries are provided for Windows. Please note, the ARM version of Windows is not supported
+-   Pentium Dual-Core or later, preferably an i3 or better
+-   Minimum of 2GB RAM, 4GB for a better experience
+
+#### Mac OS
+
+-   macOS 10.10 (Yosemite) or later
+-   Only 64-bit binaries are supported
+-   The new Apple M1 Chip is not yet supported, but we are working to support it soon
+-   Any 64-bit processor Intel processor
+-   Minimum of 2GB RAM, 4GB for a better experience
+
+#### Linux
+
+-   Ubuntu 12.04 and later
+-   Fedora 21
+-   Debian 8
+-   An Intel Pentium 4 CPU or later that is SSE2 capable
+-   Minimum of 2GB RAM, 4GB for a better experience
 
 # Features
-
-## Markdown Constructs
 
 -   Abbreviations
 -   Blockquotes
