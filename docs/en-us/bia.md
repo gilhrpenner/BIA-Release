@@ -3,14 +3,6 @@
 Welcome to BIA Assistant, the best co-player one can ever wish! ![Minion](https://octodex.github.com/images/minion.png =200x200)\
 In this section, you will find all information you need to get started and configure your account.
 
-asd
-asd
-asd
-asd
-as
-da
-sd
-
 # Prerequisites
 
 #### Windows
@@ -57,7 +49,7 @@ If you would like us to support a different language please get in touch.
 
 # Features
 
-We are constantly improving and adding new features, our goal and to offer solutions to automatize all in-game actions, but also to offer tools to improve your game experience.
+We are constantly improving and adding new features. Our goal is to offer solutions to automatize all in-game actions, but also to offer tools to improve your game experience.
 
 ## reCAPTCHA Solver
 
@@ -118,3 +110,7 @@ Blah blah
 # Safety Considerations
 
 BIA blah blah
+
+# new section to force update
+
+lol!
