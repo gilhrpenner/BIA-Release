@@ -1,7 +1,15 @@
 # BIA Assistant
 
-Welcome to BIA Assistant, the best co-player one can ever wish! 🦹‍♀️\
+Welcome to BIA Assistant, the best co-player one can ever wish! ![Minion](https://octodex.github.com/images/minion.png =200x200)\
 In this section, you will find all information you need to get started and configure your account.
+
+asd
+asd
+asd
+asd
+as
+da
+sd
 
 # Prerequisites
 
