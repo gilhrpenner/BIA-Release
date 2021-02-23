@@ -1,6 +1,6 @@
 # BIA Assistant
 
-Welcome to BIA Assistant, the best co-player one can ever wish! 🦹‍♂️ \
+Welcome to BIA Assistant, the best co-player one can ever wish! 🦹‍♀️\
 In this section, you will find all information you need to get started and configure your account.
 
 # Prerequisites
@@ -31,7 +31,7 @@ In this section, you will find all information you need to get started and confi
 BIA is ready to be played on any Tribal Wars server and any world with the exception of Speed worlds.\
 We also support many languages and we are always looking for people that are passionate about our bot and wants to improve translations or even translate BIA to a new language.
 
-:brazil: Brazilian Portuguese is our official language\
+🇧🇷 Brazilian Portuguese is our official language\
 :gb: English is our also our official language
 
 Here are some of the languages we currently support
@@ -57,7 +57,7 @@ reCAPTCHA is a Captcha System that helps services such as Tribal Wars to disting
 
 ## Tribal Wars Accounts
 
-Blah blah
+With BIA you can have up to 5 different Tribal Wars accounts registered, those account can be in any world and in any server! We do not constraint you in playing with a single account. Our only requirement is that only one account can be active at a time. If you do require access to more than one account running at the same time (multiple instances of BIA) then an extra charge will be applied.
 
 ## Realtime-Sync
 
@@ -102,6 +102,10 @@ Blah blah
 ## Auto Tagging
 
 blah blah
+
+## Auto Update
+
+Blah blah
 
 # Safety Considerations
 
