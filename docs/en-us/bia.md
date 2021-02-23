@@ -31,19 +31,19 @@ In this section, you will find all information you need to get started and confi
 BIA is ready to be played on any Tribal Wars server and any world with the exception of Speed worlds.\
 We also support many languages and we are always looking for people that are passionate about our bot and wants to improve translations or even translate BIA to a new language.
 
-🇧🇷 Brazilian Portuguese is our official language\
-:gb: English is our also our official language
+![Brazil](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-brazil_1f1e7-1f1f7.png =20x20) Brazilian Portuguese is our official language\
+![England](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-england_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png =20x20) English is our also our official language
 
 Here are some of the languages we currently support
 
-:czech_republic: Czech\
-:de: German\
-:es: Spanish\
-:fr: French\
-:it: Italian\
-:poland: Polish\
-:slovakia: Slovak\
-:tr: Turkish
+![CZech](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-czechia_1f1e8-1f1ff.png =20x20) Czech\
+![Germany](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-germany_1f1e9-1f1ea.png =20x20) German\
+![Spain](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-spain_1f1ea-1f1f8.png =20x20) Spanish\
+![France](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-france_1f1eb-1f1f7.png =20x20) French\
+![Italy](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-italy_1f1ee-1f1f9.png =20x20) Italian\
+![Poland](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-poland_1f1f5-1f1f1.png =20x20) Polish\
+![Slovakia](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-slovakia_1f1f8-1f1f0.png =20x20) Slovak\
+![Turkey](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-turkey_1f1f9-1f1f7.png =20x20) Turkish
 
 If you would like us to support a different language please get in touch.
 
