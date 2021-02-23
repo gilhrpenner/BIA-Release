@@ -1,6 +1,6 @@
 # BIA Assistant
 
-Welcome to BIA Assistant, the best co-player one can ever wish! ![Minion](https://octodex.github.com/images/minion.png =200x200)\
+Welcome to BIA Assistant, the best co-player one can ever wish! ![BIA](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/265/woman-supervillain_1f9b9-200d-2640-fe0f.png =30x30)\
 In this section, you will find all information you need to get started and configure your account.
 
 # Prerequisites
@@ -110,7 +110,3 @@ Blah blah
 # Safety Considerations
 
 BIA blah blah
-
-# new section to force update
-
-lol!
