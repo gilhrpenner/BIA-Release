@@ -148,10 +148,33 @@ We are **excited** and **proud** to say we have `the most advanced farming tool`
 Our primary concern is to allow the user to adjust the settings just the way they want, most bots out there are very limited and pretty much all of their users farm on the same way because they just can't personalize things properly.
 
 ![Groups](https://api.bia.gg/en/farm1.png)
+![Groups](https://api.bia.gg/en/farm2.png)
+![Groups](https://api.bia.gg/en/farm3.png)
+![Groups](https://api.bia.gg/en/farm4.png)
 
 ### Testing mode
 
-You can test your settings with our testing mode.
+Blah blah
+
+### Basic settings
+
+Blah blah
+
+### Safety settings
+
+Blah blah
+
+### Farming models
+
+Blah blah
+
+### Wall settings
+
+Blah blah
+
+### Advanced settings
+
+Blah blah
 
 ## Scavenging
 
