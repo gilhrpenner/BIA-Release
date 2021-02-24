@@ -59,6 +59,13 @@ reCAPTCHA is a Captcha System that helps services such as Tribal Wars to disting
 
 With BIA you can have up to 5 different Tribal Wars accounts registered, those account can be in any world and in any server! We do not constraint you in playing with a single account. Our only requirement is that only one account can be active at a time. If you do require access to more than one account running at the same time (multiple instances of BIA) then an extra charge will be applied.
 
+::: tip
+Did you know other bots prevent you from using more than one account?
+At BIA we are proud to give you freedom to play as you wish.
+:::
+
+![Accounts](https://dev.bia.gg/en/accounts.png)
+
 ## Realtime-Sync
 
 Blah blah
