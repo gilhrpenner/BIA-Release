@@ -68,7 +68,22 @@ At BIA we are proud to give you freedom to play as you wish.
 
 ## Realtime-Sync
 
-Blah blah
+Do you play with co-players? Or perhaps you play at home and at the office? \
+If you answered yes to any of the above we've got a feature just for you! Enjoy realtime-sync between computers, you schedule a command or change a setting and it is broadcasted to all BIA sessions logged on your account. This unlocks endless possibilities!
+
+::: tip
+Did you know some servers do not allow co-players?
+You can use Realtime-Sync to bypass this restriction.
+:::
+
+With Realtime-Sync multiple people can connect to the same account at the same time without temparing cookies, you can have multiple people playing virtually from anywhere in the world and Tribal Wars won't ever know about it. BIA also handles all the browser fingerprinting and sync user-agent headers to protect your identity as much as we possibly can.
+
+::: warning
+Any actions within the builtin browser is is leaking your IP address!
+therefore the usage of proxy is highly recommended in case of co-players.
+:::
+
+![Main](https://dev.bia.gg/en/accounts.png)
 
 ## Proxy Ready
 
