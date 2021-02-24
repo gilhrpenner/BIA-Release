@@ -111,14 +111,17 @@ BIA has 2 categoris of logs `Next actions` and `System logs` to give your the ma
 
 ![Main](https://dev.bia.gg/en/logs.png)
 
-::: warning Attention
+::: warning ATTENTION
 The time displayed besides the logs are your local time!
 We only use server-time clock when it is important for the game, such as Scheduled commands.
 :::
 
 ## Local Settings
 
-Blah blah
+BIA has a set of local settings to allow you to customize BIA just the way you like.\
+Put and end to the endless fights with your co-player over light and dark mode, have it the way you want!
+
+![Main](https://dev.bia.gg/en/localSettings.png)
 
 ## Built-in Browser
 
