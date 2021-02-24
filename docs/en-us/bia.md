@@ -83,15 +83,38 @@ Any actions within the builtin browser is is leaking your IP address!
 therefore the usage of proxy is highly recommended in case of co-players.
 :::
 
-![Main](https://dev.bia.gg/en/accounts.png)
+![Main](https://dev.bia.gg/en/main.png)
 
 ## Proxy Ready
 
-Blah blah
+BIA supports IPv4 and IPv6 proxies, though you should give preference to IPv4 since Tribal Wars doesn't quite support IPv6 tunnels just yet. You can still use IPv6 proxies but some images that are not cached previously will not render properly.
+
+BIA has a builtin feature called kill-shit, whenever you lose connection with your proxy server we won't allow any requests to Tribal Wars, thus protecting your identity.
+
+![Main](https://dev.bia.gg/en/proxy.png)
+
+::: tip
+Did you know that a high-quality proxy can reduce your delay?
+:::
+
+::: warning
+Tribal Wars ban players who use proxy! Be sure to get a proxy with a static IP
+so they won't figure out you are using a proxy.
+:::
 
 ## System Logs
 
-Blah blah
+BIA has 2 categoris of logs `Next actions` and `System logs` to give your the maximum information you need to know exactly what is going on.
+
+**Next actions** will tell you when the next task will happen, and when something is happening we also inform you.
+**System logs** will log everything that happens in your account and we think it is important for you to be aware of!
+
+![Main](https://dev.bia.gg/en/logs.png)
+
+::: warning Attention
+The time displayed besides the logs are your local time!
+We only use server-time clock when it is important for the game, such as Scheduled commands.
+:::
 
 ## Local Settings
 
