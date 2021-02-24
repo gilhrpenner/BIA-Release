@@ -64,7 +64,7 @@ Did you know other bots prevent you from using more than one account?
 At BIA we are proud to give you freedom to play as you wish.
 :::
 
-![Accounts](https://dev.bia.gg/en/accounts.png)
+![Accounts](https://api.bia.gg/en/accounts.png)
 
 ## Realtime-Sync
 
@@ -79,11 +79,11 @@ You can use Realtime-Sync to bypass this restriction.
 With Realtime-Sync multiple people can connect to the same account at the same time without temparing cookies, you can have multiple people playing virtually from anywhere in the world and Tribal Wars won't ever know about it. BIA also handles all the browser fingerprinting and sync user-agent headers to protect your identity as much as we possibly can.
 
 ::: warning
-Any actions within the builtin browser is is leaking your IP address!
+Any actions within the builtin browser is leaking your IP address!
 therefore the usage of proxy is highly recommended in case of co-players.
 :::
 
-![Main](https://dev.bia.gg/en/main.png)
+![Main](https://api.bia.gg/en/main.png)
 
 ## Proxy Ready
 
@@ -91,7 +91,7 @@ BIA supports IPv4 and IPv6 proxies, though you should give preference to IPv4 si
 
 BIA has a builtin feature called kill-shit, whenever you lose connection with your proxy server we won't allow any requests to Tribal Wars, thus protecting your identity.
 
-![Main](https://dev.bia.gg/en/proxy.png)
+![Main](https://api.bia.gg/en/proxy.png)
 
 ::: tip
 Did you know that a high-quality proxy can reduce your delay?
@@ -109,7 +109,7 @@ BIA has 2 categoris of logs `Next actions` and `System logs` to give your the ma
 **Next actions** will tell you when the next task will happen, and when something is happening we also inform you.
 **System logs** will log everything that happens in your account and we think it is important for you to be aware of!
 
-![Main](https://dev.bia.gg/en/logs.png)
+![Main](https://api.bia.gg/en/logs.png)
 
 ::: warning ATTENTION
 The time displayed besides the logs are your local time!
@@ -119,21 +119,39 @@ We only use server-time clock when it is important for the game, such as Schedul
 ## Local Settings
 
 BIA has a set of local settings to allow you to customize BIA just the way you like.\
-Put and end to the endless fights with your co-player over light and dark mode, have it the way you want!
+Put an end to the endless fights with your co-player over light and dark mode, have it the way you want!
 
-![Main](https://dev.bia.gg/en/localSettings.png)
+![Main](https://api.bia.gg/en/localSettings.png)
 
 ## Built-in Browser
 
-Blah blah
+Our builtin browser allows for quick and easy access to the game, but don't you worry, we do not force you to use our browser, in fact we allow for quick export of your session cookies so you can use any browser you want, and we even offer a solution to sync user-agent headers so it is as if you were using the exactly same browser.
+
+![Browser](https://api.bia.gg/en/browser.png)
+
+::: tip
+Did you know you can install the chrome extension `EditThisCookie` and import the cookies
+that are generated on BIA once you login once your account?
+:::
 
 ## Organizational Groups
 
-Blah blah
+BIA uses groups to define and control your account, currently we have two default groups which are `Farm AS` and `Scavenging` and the villages in those groups will be farmed with and sent for scavenging parties! You can also create groups for better organization of your account, define which villages will be recruiting and many more.
+
+![Groups](https://api.bia.gg/en/groups.png)
+
+We plan on adding many more functionalities and all of them will make use of groups, so the earlier you start organizing your villages the better understanding to set up your account you will have.
 
 ## Auto Farm AS
 
-Blah blah
+We are **excited** and **proud** to say we have `the most advanced farming tool` for Tribal Wars!\
+Our primary concern is to allow the user to adjust the settings just the way they want, most bots out there are very limited and pretty much all of their users farm on the same way because they just can't personalize things properly.
+
+![Groups](https://api.bia.gg/en/farm1.png)
+
+### Testing mode
+
+You can test your settings with our testing mode.
 
 ## Scavenging
 
