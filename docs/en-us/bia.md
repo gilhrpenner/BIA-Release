@@ -147,9 +147,9 @@ We plan on adding many more functionalities and all of them will make use of gro
 We are **excited** and **proud** to say we have `the most advanced farming tool` for Tribal Wars!\
 Our primary concern is to allow the user to adjust the settings just the way they want because most bots out there are very limited and pretty much all of their users farm on the same way because they just can't personalize things properly.
 
-### Testing mode
-
 ![Farm](https://api.bia.gg/en/farm1.png)
+
+### Testing mode
 
 The testing mode enables you, the user, to be in complete control of your game! Are you a visual learner and, instead of reading instructions, you prefer to change the settings and see them happening in real-time? This feature is for you! With our testing mode, you can watch BIA farming without sending real attacks. Our testing model will show you **almost** everything as if it was real attacks, we will take in consideration your home units, all of your settings and we will highlight the buttons BIA would be clicking as if it was a real attack.
 
@@ -161,11 +161,28 @@ The basic settings are almost the same ones as Tribal Wars offers you, this sect
 
 No human can farm 24 hours a day, 7 days a week and 365 days a year, with that being said, we enable you to mimic human-like behaviour and take breaks. For safety reasons, we won't be going further in detail about how our algorithm works, but we strongly encourage you to make use of this feature and set random breaks to prevent being caught. Even though using BIA decreases the quantity of captchas challenges you'd be presented it doesn't take more than a monkey's IQ to figure out no one can ever farm without breaks.
 
-### Farming models
+::: info
+Although BIA mimics human-like behaviour it is still in your best interest not to
+abuse its functionalities, be smart and play safe.
+:::
 
 ![Farm](https://api.bia.gg/en/farm2.png)
 
-Blah blah
+### Farming models
+
+You can choose one farming model, a combination of multiple farming models or all farming models to improve your performance.
+
+-   Model A is your main and primary model
+-   Model B has two functionalities and is your secondary model
+    -   Farm when A is not an option
+    -   Focus reports with full haul
+-   Model C is the dynamic model from Tribal Wars but with improved functionality
+-   Wall models
+    -   We will go in further details in the next section
+
+Though Model A is your primary model, BIA will first check if a given village meets the criteria for your Wall models, if not then we advance to your Model C, Model B and finally Model A. Therefore, your primary model is the one that if everything else doesn't meet the criteria you defined then it will send Model A and if Model A is not an option then it means you no longer have units and it is time to switch villages.
+
+Do not let the above explanation intimidate you, reading the in-bot instructions you will easily understand, and if you still have questions you can always refer to our [testing mode](#testing-mode).
 
 ### Wall settings
 
