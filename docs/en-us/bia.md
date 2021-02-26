@@ -145,34 +145,37 @@ We plan on adding many more functionalities and all of them will make use of gro
 ## Auto Farm AS
 
 We are **excited** and **proud** to say we have `the most advanced farming tool` for Tribal Wars!\
-Our primary concern is to allow the user to adjust the settings just the way they want, most bots out there are very limited and pretty much all of their users farm on the same way because they just can't personalize things properly.
-
-![Groups](https://api.bia.gg/en/farm1.png)
-![Groups](https://api.bia.gg/en/farm2.png)
-![Groups](https://api.bia.gg/en/farm3.png)
-![Groups](https://api.bia.gg/en/farm4.png)
+Our primary concern is to allow the user to adjust the settings just the way they want because most bots out there are very limited and pretty much all of their users farm on the same way because they just can't personalize things properly.
 
 ### Testing mode
 
-Blah blah
+![Farm](https://api.bia.gg/en/farm1.png)
+
+The testing mode enables you, the user, to be in complete control of your game! Are you a visual learner and, instead of reading instructions, you prefer to change the settings and see them happening in real-time? This feature is for you! With our testing mode, you can watch BIA farming without sending real attacks. Our testing model will show you **almost** everything as if it was real attacks, we will take in consideration your home units, all of your settings and we will highlight the buttons BIA would be clicking as if it was a real attack.
 
 ### Basic settings
 
-Blah blah
+The basic settings are almost the same ones as Tribal Wars offers you, this section is important so BIA can validate your choices and make sure we will farm the way you want.
 
 ### Safety settings
 
-Blah blah
+No human can farm 24 hours a day, 7 days a week and 365 days a year, with that being said, we enable you to mimic human-like behaviour and take breaks. For safety reasons, we won't be going further in detail about how our algorithm works, but we strongly encourage you to make use of this feature and set random breaks to prevent being caught. Even though using BIA decreases the quantity of captchas challenges you'd be presented it doesn't take more than a monkey's IQ to figure out no one can ever farm without breaks.
 
 ### Farming models
+
+![Farm](https://api.bia.gg/en/farm2.png)
 
 Blah blah
 
 ### Wall settings
 
+![Farm](https://api.bia.gg/en/farm3.png)
+
 Blah blah
 
 ### Advanced settings
+
+![Farm](https://api.bia.gg/en/farm4.png)
 
 Blah blah
 
