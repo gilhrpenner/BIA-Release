@@ -223,7 +223,13 @@ The advanced settings give you greater control over how the farming assistant wi
     -   The title is pretty much self explanatory, you can choose the order of which the villages will be listed, from ascending to descending or vice versa.
     -   This flag will order the villages by the Time field presented on Farm AS page.
 -   Fail-safe
+
     -   Occasionally errors can occur, could be a network issue, a failed captcha or even a computer error that causes Farm AS to halt, but don't you worry, you can handle these edge cases with our fail-safe system and make sure your farm won't stop without your consent.
+
+    ![Farm](https://api.bia.gg/en/farm4.png)
+    ![Farm](https://api.bia.gg/en/farm4.png)
+    ![Farm](https://api.bia.gg/en/farm4.png)
+    ![Farm](https://api.bia.gg/en/farm4.png)
 
 ## Scavenging
 
