@@ -276,6 +276,11 @@ Are you one of those poeple that like to schedule tons of similar attacks and th
 
 Future methods to improve what is already great are to come, alongside with other commands modality such as fake commands, mass commands, recurring commands and a super advanced command creation system. Stay tuned for more.
 
+![Commands](https://api.bia.gg/en/commandsEdit.png)
+![Commands](https://api.bia.gg/en/commandsEdit.png)
+![Commands](https://api.bia.gg/en/commandsEdit.png)
+![Commands](https://api.bia.gg/en/commandsEdit.png)
+
 ## Interactive Map
 
 Blah blah
