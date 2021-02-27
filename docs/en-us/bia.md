@@ -32,7 +32,7 @@ BIA is ready to be played on any Tribal Wars server and any world with the excep
 We also support many languages and we are always looking for people that are passionate about our bot and wants to improve translations or even translate BIA to a new language.
 
 ![Brazil](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-brazil_1f1e7-1f1f7.png =20x20) Brazilian Portuguese is our official language\
-![England](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-england_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png =20x20) English is our also our official language
+![England](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-england_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png =20x20) English is also our official language
 
 Here are some of the languages we currently support
 
@@ -89,7 +89,7 @@ therefore the usage of proxy is highly recommended in case of co-players.
 
 BIA supports IPv4 and IPv6 proxies, though you should give preference to IPv4 since Tribal Wars doesn't quite support IPv6 tunnels just yet. You can still use IPv6 proxies but some images that are not cached previously will not render properly.
 
-BIA has a builtin feature called kill-shit, whenever you lose connection with your proxy server we won't allow any requests to Tribal Wars, thus protecting your identity.
+BIA has a builtin feature called kill-switch, whenever you lose connection with your proxy server we won't allow any requests to Tribal Wars, thus protecting your identity.
 
 ![Main](https://api.bia.gg/en/proxy.png)
 
@@ -206,7 +206,7 @@ The advanced settings give you greater control over how the farming assistant wi
     -   When you define a range betweem two numbers you are mimicing human behaviour, no one can send attacks so precise, so make usage of this feature.
     -   Tribal Wars by default limits 5 attacks per second which means you can only send one attack every 200 ms, so based on that you can define a range between 200 ms up to 3 seconds, the slower you send attacks the better it is for you. Sending too many attacks too fast might increate the number of captcha challenges you will be presented. Each captcha takes about 1 min but during the night or high-usage hours it can take up to 5 minutes.
 -   Delay before switching villages
-    -   If disabled BIA will switch to the next attack village immediately after the last report is attack, so if you have many villages near each other it might be in your best interest to set a small delay just so attacks don't overlap. He have another feature that also helps to address this issue.
+    -   If disabled BIA will switch to the next attack village immediately after the last report is attacked, so if you have many villages near each other it might be in your best interest to set a small delay just so attacks don't overlap. He have another feature that also helps to address this issue.
 -   Force village switch
     -   Do you have many farming villages and need to cycle through them very fast? Enable this and you set how many seconds BIA will spend in each farming village regardless of how many barbarians villages are left to be attacked.
 -   Delay before a new cycle
@@ -221,9 +221,8 @@ The advanced settings give you greater control over how the farming assistant wi
     -   This feature is highly recommended whenever you activate the checkbox to `Include villages you are currently attacking`
 -   Order villages by time of report
     -   The title is pretty much self explanatory, you can choose the order of which the villages will be listed, from ascending to descending or vice versa.
-    -   This flag will order the villages by the Time field presented on Farm AS page.
+    -   This flag will order the villages by the `Time` field presented on Farm AS page.
 -   Fail-safe
-
     -   Occasionally errors can occur, could be a network issue, a failed captcha or even a computer error that causes Farm AS to halt, but don't you worry, you can handle these edge cases with our fail-safe system and make sure your farm won't stop without your consent.
 
 ::: info
@@ -233,7 +232,7 @@ BIA automagically pauses Farm AS while a command is in progress
 ## Scavenging
 
 Add the villages allowed to be sent on scavenging parties on `Scavenging` [group](#organizational-groups) and then define which units you are allowed to be used.\
-Then sit back, and let BIA do the rest, with our algorithm we will evenly distribute the units between all levels of scavenging such that the units return home together. Besides that, with out advanced settings you can choose how many units of each type will be left behind, this way you can reserve them fore more urgent cases, which as a quick snipe.
+Then sit back, and let BIA do the rest, with our algorithm we will evenly distribute the units between all levels of scavenging such that the units return home together. Besides that, with our advanced settings you can choose how many units of each type will be left behind, this way you can reserve them fore more urgent cases, which as a quick snipe.
 
 Our algorithms will handle everything else, BIA will watch when the next party needs to be sent out and will do that as effective as possible.
 
@@ -241,7 +240,7 @@ Our algorithms will handle everything else, BIA will watch when the next party n
 
 ## Schedule Commands
 
-Super precise commands, with a stable connection you can send commands as price as 4 ms. Our beautifully designed system is optimized for efficiency and precision. All commands are schedule using server time no matter your current time zone. Do you play with co-players? We've got your back, [sync](#realtime-sync) commands between computers independently of time zones.
+Super precise commands, with a stable connection you can send commands as precise as 4 ms. Our beautifully designed system is optimized for efficiency and precision. All commands are schedule using server time no matter your current time zone. Do you play with co-players? We've got your back, [sync](#realtime-sync) commands between computers independently of time zones.
 
 With our commands table you can easily find, check the status, edit and delete commands. We also include a unique and helpful badge that indicates the difference in seconds between each command so you can easily identify commands that are going to be sent too close. Humans can't sent precise attacks within seconds apart of each other, BIA can! So keep that in mind and don't abuse the system, while BIA is safe and invisible you can still get caught you if abuse its capabilities.
 
@@ -326,6 +325,6 @@ You will always be notified of new updates and when it is time, BIA will downloa
 
 # Safety Considerations
 
-BIA behaves the same way as us humans, navigates through Tribal Wars by clicking links, simulates things and invokes events that happen on a page just like it does when we real humans do things. It is worth noting that humans can't send 20 attacks in 1 second, but BIA does. Similarly, Tribal Wars allows sending 5 attacks per second or 300 attacks per minute. Humans could probably do that in the Farm AS page for a few minutes, but once you extrapolate and do that non-stop for hours it is clear that you are using a bot and even someone with an IQ of a monkey (yes, we can associate admins with monkeys because no smart person would work for free as admins to a company like Inno) can figure out you are using a bot.
+BIA behaves the same way as us humans, navigates through Tribal Wars by clicking links, simulates things and invokes events that happen on a page just like it does when we real humans do things. It is worth noting that humans can't send 20 attacks in 1 second, but BIA does. Similarly, Tribal Wars allows sending 5 attacks per second or 300 attacks per minute. Humans could probably do that in the Farm AS page for a few minutes, but once you extrapolate and do that non-stop for hours it is clear that you are using a bot and even someone like an admin (yes, it is supposed to be offensive because no smart person would work for free as admins of a game to a company like Inno) can figure out you are using a bot.
 
 Remember to use BIA Assistant with common sense, we offer tons of features that prevent patterns that are easy to detect you are using a bot.
