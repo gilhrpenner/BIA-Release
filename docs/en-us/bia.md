@@ -226,6 +226,10 @@ The advanced settings give you greater control over how the farming assistant wi
 
     -   Occasionally errors can occur, could be a network issue, a failed captcha or even a computer error that causes Farm AS to halt, but don't you worry, you can handle these edge cases with our fail-safe system and make sure your farm won't stop without your consent.
 
+::: info
+BIA automagically pauses Farm AS while a command is in progress
+:::
+
 ## Scavenging
 
 Add the villages allowed to be sent on scavenging parties on `Scavenging` [group](#organizational-groups) and then define which units you are allowed to be used.\
@@ -233,11 +237,11 @@ Then sit back, and let BIA do the rest, with our algorithm we will evenly distri
 
 Our algorithms will handle everything else, BIA will watch when the next party needs to be sent out and will do that as effective as possible.
 
-![Farm](https://api.bia.gg/en/scavenge.png)
+![Scavenge](https://api.bia.gg/en/scavenge.png)
 
 ## Schedule Commands
 
-Super price commands, with a stable connection you can send commands as price as 4 ms. Our beautifully designed system is optimized for efficiency and precision. All commands are schedule using server time no matter your current time zone. Do you play with co-players? We've got your back, [sync](#realtime-sync) commands between computers independently of time zones.
+Super precise commands, with a stable connection you can send commands as price as 4 ms. Our beautifully designed system is optimized for efficiency and precision. All commands are schedule using server time no matter your current time zone. Do you play with co-players? We've got your back, [sync](#realtime-sync) commands between computers independently of time zones.
 
 With our commands table you can easily find, check the status, edit and delete commands. We also include a unique and helpful badge that indicates the difference in seconds between each command so you can easily identify commands that are going to be sent too close. Humans can't sent precise attacks within seconds apart of each other, BIA can! So keep that in mind and don't abuse the system, while BIA is safe and invisible you can still get caught you if abuse its capabilities.
 
@@ -270,7 +274,7 @@ Be smart and let BIA do the hard-work for you!
 
 ![Commands](https://api.bia.gg/en/commandsCreate.png)
 
-Are you one of those poeple that like to schedule tons of similar attacks and then just edit something here and there? We have a functionality just for you! Meet our commands editor, with this you can mass-edit commands in a very simple way.
+Are you one of those people that like to schedule tons of similar attacks and then just edit something here and there? We have a functionality just for you! Meet our commands editor, with this you can mass-edit commands in a very simple way.
 
 ![Commands](https://api.bia.gg/en/commandsEdit.png)
 
@@ -278,16 +282,50 @@ Future methods to improve what is already great are to come, alongside with othe
 
 ## Interactive Map
 
-Blah blah
+Builtin interactive map, like Tribal Wars's map but better.
+
+Our map is still in its infance and has yet to grow in terms of functionalities, but you can already select villages, filter it to your liking and export those coordinates, or create commands! The best part is that we use real-time data, not data from 6 hours ago! And if your computer struggles to render it you can even disable the trees and rivers from the map.
+
+We have big plans for it, and we are sure you will love it.
+
+![Map](https://api.bia.gg/en/map.png)
+
+::: info
+We use WebGL to render our map, for that you need to have Hardware Acceleration enabled
+:::
+
+::: info
+Some windows servers might not support our map
+:::
 
 ## Auto Tagging
 
-blah blah
+Simple but useful auto tagging system, rest assured we will be tagging all commands.
+You can enable alarms and desktop notifications so you will know and be able to prepare to defend yourself.
+
+-   You can set alarms for normal incomings
+-   You can also set alarms for nobleman incomings
+-   You can repeat the alarm till you disable it
+
+All commands logged will show the processed time in your local tme
+
+![Map](https://api.bia.gg/en/incomings.png)
+
+::: warning ATTENTION
+Auto tagging only works for commands that you cannot see the troops, so if you
+try to attack yourself or an ally with shared commands attacks you, BIA will not tag.
+:::
+
+::: warning ATTENTION
+Commands sent while BIA was inactive will not be tagged and will me marked with a red text
+:::
 
 ## Auto Update
 
-Blah blah
+You will always be notified of new updates and when it is time, BIA will download the update while idle so that it doesn't affect timing precisions and will have it ready to install whenever you are ready to go.
 
 # Safety Considerations
 
-BIA blah blah
+BIA behaves the same way as us humans, navigates through Tribal Wars by clicking links, simulates things and invokes events that happen on a page just like it does when we real humans do things. It is worth noting that humans can't send 20 attacks in 1 second, but BIA does. Similarly, Tribal Wars allows sending 5 attacks per second or 300 attacks per minute. Humans could probably do that in the Farm AS page for a few minutes, but once you extrapolate and do that non-stop for hours it is clear that you are using a bot and even someone with an IQ of a monkey (yes, we can associate admins with monkeys because no smart person would work for free as admins to a company like Inno) can figure out you are using a bot.
+
+Remember to use BIA Assistant with common sense, we offer tons of features that prevent patterns that are easy to detect you are using a bot.
