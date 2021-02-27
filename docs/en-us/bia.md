@@ -188,13 +188,42 @@ Do not let the above explanation intimidate you, reading the in-bot instructions
 
 ![Farm](https://api.bia.gg/en/farm3.png)
 
-Blah blah
+With wall settings, you can rest assured your macro-farming won't have too many losses. If you choose to enable wall settings you are presented with a couple of options.
+
+-   You can choose to skip a barbarian village in case you don't have enough troops to attack the wall.
+-   If your village has 10 or more catapults it will attack the Headquarters to slow down the development of walls.
+-   Send 5 spies if the report is yellow or red.
+
+Besides the 3 basic models for wall with level 1, 2 or greater or equal to 3 you can also define what is the maximum distance your RAM units will be able to travel to.
 
 ### Advanced settings
 
 ![Farm](https://api.bia.gg/en/farm4.png)
 
-Blah blah
+The advanced settings give you greater control over how the farming assistant will behave, here are some of our settings but keep in mind we are constantly updating and adding new features.
+
+-   Delay between attacks
+    -   When you define a range betweem two numbers you are mimicing human behaviour, no one can send attacks so precise, so make usage of this feature.
+    -   Tribal Wars by default limits 5 attacks per second which means you can only send one attack every 200 ms, so based on that you can define a range between 200 ms up to 3 seconds, the slower you send attacks the better it is for you. Sending too many attacks too fast might increate the number of captcha challenges you will be presented. Each captcha takes about 1 min but during the night or high-usage hours it can take up to 5 minutes.
+-   Delay before switching villages
+    -   If disabled BIA will switch to the next attack village immediately after the last report is attack, so if you have many villages near each other it might be in your best interest to set a small delay just so attacks don't overlap. He have another feature that also helps to address this issue.
+-   Force village switch
+    -   Do you have many farming villages and need to cycle through them very fast? Enable this and you set how many seconds BIA will spend in each farming village regardless of how many barbarians villages are left to be attacked.
+-   Delay before a new cycle
+    -   Once BIA has sent farming attacks from all of your farming villages it is considered a farming cycle, here you can define how long after each cycle BIA will wait before starting a new cycle. This is also known as cooldown period.
+-   Max ongoing attacks
+    -   One of our exclusive settings compared to other bots and scripts, you can define how many ongoing attacks is allowed per village. Only your own attacks are considered for this feature.
+    -   You can use this so that you don't focus most of your units on nearby villages, if you define 5 max ongoing attacks, for example, your units will be more evenly spread between all barbarian villages.
+-   Min attacks possible
+    -   If one of your farming villages cannot attack at least 10 attacks, for example, with model A BIA will skip that village during the current farming cycle and focus on other farming villages.
+-   Do not repeat attacks
+    -   Another exclusive feature for BIA users, you can define the minimum time between attacks, this way if you have many villages near the same barbarian village you won't waste your units all on the same village. This feature is also exceptionally useful for when a new captcha challenge is shown, in case of having to restart the farm, BIA won't repeat attacks on the same barbarian village.
+    -   This feature is highly recommended whenever you activate the checkbox to `Include villages you are currently attacking`
+-   Order villages by time of report
+    -   The title is pretty much self explanatory, you can choose the order of which the villages will be listed, from ascending to descending or vice versa.
+    -   This flag will order the villages by the Time field presented on Farm AS page.
+-   Fail-safe
+    -   Occasionally errors can occur, could be a network issue, a failed captcha or even a computer error that causes Farm AS to halt, but don't you worry, you can handle these edge cases with our fail-safe system and make sure your farm won't stop without your consent.
 
 ## Scavenging
 
