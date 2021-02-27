@@ -226,18 +226,55 @@ The advanced settings give you greater control over how the farming assistant wi
 
     -   Occasionally errors can occur, could be a network issue, a failed captcha or even a computer error that causes Farm AS to halt, but don't you worry, you can handle these edge cases with our fail-safe system and make sure your farm won't stop without your consent.
 
-    ![Farm](https://api.bia.gg/en/farm4.png)
-    ![Farm](https://api.bia.gg/en/farm4.png)
-    ![Farm](https://api.bia.gg/en/farm4.png)
-    ![Farm](https://api.bia.gg/en/farm4.png)
-
 ## Scavenging
 
-Blah blah
+Add the villages allowed to be sent on scavenging parties on `Scavenging` [group](#organizational-groups) and then define which units you are allowed to be used.\
+Then sit back, and let BIA do the rest, with our algorithm we will evenly distribute the units between all levels of scavenging such that the units return home together. Besides that, with out advanced settings you can choose how many units of each type will be left behind, this way you can reserve them fore more urgent cases, which as a quick snipe.
+
+Our algorithms will handle everything else, BIA will watch when the next party needs to be sent out and will do that as effective as possible.
+
+![Farm](https://api.bia.gg/en/scavenge.png)
 
 ## Schedule Commands
 
-Blah blah
+Super price commands, with a stable connection you can send commands as price as 4 ms. Our beautifully designed system is optimized for efficiency and precision. All commands are schedule using server time no matter your current time zone. Do you play with co-players? We've got your back, [sync](#realtime-sync) commands between computers independently of time zones.
+
+With our commands table you can easily find, check the status, edit and delete commands. We also include a unique and helpful badge that indicates the difference in seconds between each command so you can easily identify commands that are going to be sent too close. Humans can't sent precise attacks within seconds apart of each other, BIA can! So keep that in mind and don't abuse the system, while BIA is safe and invisible you can still get caught you if abuse its capabilities.
+
+![Commands](https://api.bia.gg/en/commands.png)
+
+We also have the most advanced and easy-to-use system, you can create nobletrains, set catapult target and much more.\
+You can also use `*` to indicate that BIA should use all units of a given type.
+
+For instance, let's say we have 6000 axeman, 3000 light cavalry and 4 snobe, here is how you can create the perfect nobletrain.
+
+| Command number | Axeman | Light Cavalry | Snobe |
+| :------------: | :----: | :-----------: | :---: |
+|   Attack #1    |   \*   |      \*       |   1   |
+|   Attack #2    |  200   |      100      |   1   |
+|   Attack #3    |  200   |      100      |   1   |
+|   Attack #4    |  200   |      100      |   1   |
+
+\
+With the instructions above BIA will calculate that commands 2-4 will use 600 axeman therefore the first command will be sent with 5400 axeman, simmilarly the same is valid for light cavaly, the first command will be sent with 2700 light cavaly because commands 2-4 will need 300 in total, so you command after sent will look like this:
+
+| Command number | Axeman | Light Cavalry | Snobe |
+| :------------: | :----: | :-----------: | :---: |
+|   Attack #1    |  6400  |     2700      |   1   |
+|   Attack #2    |  200   |      100      |   1   |
+|   Attack #3    |  200   |      100      |   1   |
+|   Attack #4    |  200   |      100      |   1   |
+
+\
+Be smart and let BIA do the hard-work for you!
+
+![Commands](https://api.bia.gg/en/commandsCreate.png)
+
+Are you one of those poeple that like to schedule tons of similar attacks and then just edit something here and there? We have a functionality just for you! Meet our commands editor, with this you can mass-edit commands in a very simple way.
+
+![Commands](https://api.bia.gg/en/commandsEdit.png)
+
+Future methods to improve what is already great are to come, alongside with other commands modality such as fake commands, mass commands, recurring commands and a super advanced command creation system. Stay tuned for more.
 
 ## Interactive Map
 
