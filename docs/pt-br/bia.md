@@ -182,7 +182,7 @@ Você pode escolher um modelo de cultivo, uma combinação de vários modelos de
 
 Embora o Modelo A seja o seu modelo principal, a BIA primeiro verificará se uma determinada aldeia atende aos critérios para seus modelos de muralha, se não, avançamos para o seu Modelo C, Modelo B e, finalmente, Modelo A. Portanto, seu modelo principal é aquele que se todos as demais configurações não atenderem aos critérios que você definiu, ela enviará o Modelo A e se o Modelo A não for uma opção, isso significa que você não tem mais tropas e é hora de trocar de aldeia.
 
-Não deixe a explicação acima intimidá-lo(a), lendo as instruções dentro da BIA você entenderá facilmente, e se ainda tiver dúvidas, pode sempre consultar o nosso [modo de teste](#testing-mode).
+Não deixe a explicação acima intimidá-lo(a), lendo as instruções dentro da BIA você entenderá facilmente, e se ainda tiver dúvidas, pode sempre consultar o nosso [modo de teste](#mode-de-teste).
 
 ### Configurações da muralha
 
@@ -231,8 +231,7 @@ A BIA pausa automagicamente o farm enquanto um comando agendado está para ser e
 
 ## Auto coleta
 
-Adicione as aldeias que podem ser enviadas para a coleta no [grupo](#organizational-groups) `Auto coleta`
-Add the villages allowed to be sent on scavenging parties on `Scavenging` [group](#organizational-groups) e, em seguida, defina quais unidades a BIA tem permissão para usar.\
+Adicione as aldeias que podem ser enviadas para a coleta no [grupo](#grupos-organizacionais) `Auto coleta` e, em seguida, defina quais unidades a BIA tem permissão para usar.\
 Em seguida, relaxe e deixe a BIA fazer o resto, com nosso algoritmo distribuiremos uniformemente as unidades entre todos os níveis de coleta de modo que as unidades voltem para casa juntas. Além disso, com as configurações avançadas você pode escolher quantas unidades de cada tipo serão deixadas para trás, desta forma você pode reservá-las para casos mais urgentes, como um rápido snipe.
 
 Nossos algoritmos cuidarão de todo o resto, a BIA observará quando a próxima coleta precisa ser enviada e fará isso da maneira mais eficaz possível.
@@ -241,7 +240,7 @@ Nossos algoritmos cuidarão de todo o resto, a BIA observará quando a próxima 
 
 ## Agende comandos
 
-Comandos super precisos! Com uma conexão estável você pode enviar comandos tão precisos quanto 4ms. Nosso sistema é projetado e otimizado para eficiência e precisão. Todos os comandos são agendados usando o horário do servidor, independentemente do seu fuso horário atual. Você joga com outros jogadores? Você está com sorte, [sincronize](#realtime-sync) os comandos entre os computadores independentemente do fuso horário.
+Comandos super precisos! Com uma conexão estável você pode enviar comandos tão precisos quanto 4ms. Nosso sistema é projetado e otimizado para eficiência e precisão. Todos os comandos são agendados usando o horário do servidor, independentemente do seu fuso horário atual. Você joga com outros jogadores? Você está com sorte, [sincronize](#sincronização-em-tempo-real) os comandos entre os computadores independentemente do fuso horário.
 
 Com nossa tabela de comandos, você pode facilmente encontrar, verificar o status, editar e excluir comandos. Também incluímos um emblema único e útil que indica a diferença em segundos entre cada comando para que você possa identificar facilmente os comandos que serão enviados muito próximos. Humanos não podem enviar ataques precisos com segundos de intervalo um do outro, a BIA pode! Portanto, tenha isso em mente e não abuse do sistema, enquanto a BIA é segura e invisível, você ainda pode ser pego se abusar de suas funcionalidades.
 
