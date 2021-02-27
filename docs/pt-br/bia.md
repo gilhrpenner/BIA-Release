@@ -136,7 +136,7 @@ que são gerados na BIA após fazer login no jogo?
 
 ## Grupos Organizacionais
 
-BIA usa grupos para definir e controlar sua conta, atualmente temos dois grupos padrão que são `Farm AS` e` Auto Coleta` e as aldeias nesses grupos serão farmadas e enviadas para coletar! Você também pode criar grupos para uma melhor organização de sua conta, definir quais aldeias farão recrutamento e muito mais.
+BIA usa grupos para definir e controlar sua conta, atualmente temos dois grupos padrão que são `Farm AS` e `Auto Coleta` e as aldeias nesses grupos serão farmadas e enviadas para coletar! Você também pode criar grupos para uma melhor organização de sua conta, definir quais aldeias farão recrutamento e muito mais.
 
 ![Groups](https://api.bia.gg/pt/groups.png)
 
