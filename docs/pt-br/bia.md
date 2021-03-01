@@ -3,6 +3,12 @@
 Bem-vindo a BIA Assistant, a melhor co-player que alguém pode desejar! ![BIA](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/265/woman-supervillain_1f9b9-200d-2640-fe0f.png =30x30)\
 Nesta seção, você encontrará todas as informações de que precisa para começar e configurar sua conta.
 
+# Boas práticas
+
+-   Executar a BIA com privilégios administrativos pode melhorar a performance e estabilidade
+-   Embora não necessário nós recomendamos que desative o chat do Tribal Wars
+-   NÃO HABILITE as notas do Tribal Wars em todas as páginas
+
 # Pré-requisitos
 
 #### Windows
@@ -32,7 +38,7 @@ BIA está pronta para ser usada em qualquer servidor Tribal Wars e em qualquer m
 Também oferecemos suporte a vários idiomas e estamos sempre à procura de pessoas que sejam apaixonadas por nosso bot e queiram melhorar as traduções ou até mesmo traduzir o BIA para um novo idioma.
 
 ![Brazil](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-brazil_1f1e7-1f1f7.png =20x20) Português brasileiro é a nossa língua oficial\
-![England](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-england_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png =20x20) Inglês também é a nossa língua oficial
+![England](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/flag-united-kingdom_1f1ec-1f1e7.png =20x20) Inglês também é a nossa língua oficial
 
 Aqui estão alguns dos idiomas que suportamos atualmente
 
