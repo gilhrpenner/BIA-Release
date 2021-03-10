@@ -325,6 +325,12 @@ try to attack yourself or an ally with shared commands attacks you, BIA will not
 Commands sent while BIA was inactive will not be tagged and will me marked with a red text
 :::
 
+## Auto login
+
+BIA also has an automated login system, as soon it detects that your gaming session has expired it will kick off a relogin procedure, the best part of it is that all of your functionalities enabled will work once the session is renewed and it will share cookie session with all other BIA instances active, so if you play with co-player it will all be synced automagically and really fast.
+
+Keep in mind though, the relogin system can take up to 10 minutes to realize the gaming session has expired, this is a safety mechanism as we don't want Tribal Wars to detect any patterns. Another way to trigger auto relogin is when a feature such as Farm AS or scavenging needs to execute a task, then BIA will create a new gaming session right away and resume all functionalities immediately after.
+
 ## Auto Update
 
 You will always be notified of new updates and when it is time, BIA will download the update while idle so that it doesn't affect timing precisions and will have it ready to install whenever you are ready to go.
