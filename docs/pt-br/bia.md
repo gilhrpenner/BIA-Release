@@ -325,6 +325,12 @@ atacar a si mesmo ou um aliado com comandos compartilhados te atacar, a BIA não
 Comandos enviados enquanto a BIA estava inativa não serão etiquetados e serão marcados com uma cor vermelha
 :::
 
+## Auto login
+
+A BIA também possui um sistema de login automatizado, assim que detectar que sua sessão de jogo expirou dará início a um procedimento de relogin, o melhor de tudo é que todas as suas funcionalidades habilitadas funcionarão assim que a sessão for renovada e ela compartilhará os cookies com todas as outras instâncias da BIA ativas, então se você jogar com o co-player, tudo será sincronizado automaticamente e muito rápido.
+
+Lembre-se, porém, de que o sistema de relogin pode levar até 10 minutos para realizar que a sessão de jogo expirou, este é um mecanismo de segurança, pois não queremos que o Tribal Wars detecte nenhum padrão. Outra maneira de acionar o relogin automático é quando um recurso como Farm AS ou Auto Coleta precisa realizar uma tarefa, então a BIA criará uma nova sessão de jogo rapidamente e retomará todas as funcionalidades imediatamente após.
+
 ## Auto Atualizador
 
 Você sempre será notificado sobre novas atualizações e, quando chegar a hora, a BIA fará o download da atualização enquanto estiver ociosa para que não afete as funcionalidades que exijam precisão e a terá pronta para instalar sempre que você estiver pronto para prosseguir.
