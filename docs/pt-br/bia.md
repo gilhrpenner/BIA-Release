@@ -317,12 +317,27 @@ Todos os comandos etiquetados irão mostrar o tempo processado em seu tempo loca
 ![Map](https://api.bia.gg/pt/incomings.png)
 
 ::: warning ATENÇÃO
-A etiquetagem automática só funciona para comandos que você não pode ver as tropas, então se você
-atacar a si mesmo ou um aliado com comandos compartilhados te atacar, a BIA não etiquetara.
+Em mundos com a torre vigia a BIA não irá exibir a foto da unidade etiquetada em ataques enviados de dentro do perimetro da torre.
 :::
 
 ::: warning ATENÇÃO
 Comandos enviados enquanto a BIA estava inativa não serão etiquetados e serão marcados com uma cor vermelha
+:::
+
+## Auto Recrutador
+
+Parecido com o auto recrutamento do Gerente de Contas só que muito melhor! Tenha controle total de como e quando suas tropas vão ser recrutadas sem ter que se preocuar se o GC deixou de funcionar ou não!
+
+![Recruitment](https://api.bia.gg/pt/recruitment1.png)
+
+Em uma tabela você tem facil acesso as suas aldeias, quais os modelos de recrutamento ativo e também quais grupos essas aldeias pertencem.
+
+![Recruitment](https://api.bia.gg/pt/recruitment2.png)
+
+Já na parte de configuração do modelo você tem controle total de seus modelos e unidades, pode estabelecer um objetivo final, a quantidade mínima de recrutamento de cada unidade por ciclo, bem como a quantidade máxima de recrutamento por ciclo e no total. Vale notar que existem dois valores máximos de recrutamento, o ciclo significa toda vez que a BIA for recrutar unidades e o valor máximo da fila de recrutamento significa o total de tropas de um determinado tipo.
+
+::: warning ATENÇÃO
+A BIA distribui as tropas de acordo com a proporção de recrutamento para tentar igualar a quantidade de tropas existentes, se você tentar recrutar 10 mil lanceiros e 2 mil CP a BIA dara ênfase nos lanceiros até que se tenha uma quantidade razovel e então recrutará as CP.
 :::
 
 ## Auto login

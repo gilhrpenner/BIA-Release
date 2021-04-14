@@ -317,12 +317,27 @@ All commands logged will show the processed time in your local tme
 ![Map](https://api.bia.gg/en/incomings.png)
 
 ::: warning ATTENTION
-Auto tagging only works for commands that you cannot see the troops, so if you
-try to attack yourself or an ally with shared commands attacks you, BIA will not tag.
+Worlds with watch tower may not show the picture of the unit if sent from within the tower perimeter but BIA will still tag all commands.
 :::
 
 ::: warning ATTENTION
 Commands sent while BIA was inactive will not be tagged and will me marked with a red text
+:::
+
+## Auto Recruitment
+
+Similar to the auto recruitment of the Account Manager, only much better! Have full control of how and when your troops are going to be recruited without having to worry about whether the AM stopped working or not!
+
+![Recruitment](https://api.bia.gg/en/recruitment1.png)
+
+In a table you have easy access to your villages, which models of active recruitment and also which groups these villages belong to.
+
+![Recruitment](https://api.bia.gg/en/recruitment2.png)
+
+In the configuration part of the model, you have total control of your models and units, you can establish a final goal, the minimum recruitment quantity of each unit per cycle, as well as the maximum recruitment quantity per cycle and in total. It is worth noting that there are two maximum recruitment values, the cycle means whenever the BIA is going to recruit units and the maximum value of the recruitment queue means the total number of troops of a certain type.
+
+::: warning ATTENTION
+BIA allocates troops according to the recruitment ratio to try to match the number of existing troops, if you try to recruit 10,000 spears and 2,000 HC, BIA will emphasize the spears until you have a reasonable amount and then recruit the HC .
 :::
 
 ## Auto login
