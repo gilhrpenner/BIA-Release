@@ -12,6 +12,6 @@ Para rodar o script você precisa ter a extensão de navegador Tampermonkey
 
 ## Campeonato Os Lordes do Cavalo
 
-[Acesse o script aqui](https://raw.githubusercontent.com/LServo/BIA-SCRIPTS/main/Event_Horse_Race_TW.js)
+[Intalar script](https://raw.githubusercontent.com/LServo/BIA-SCRIPTS/main/Event_Horse_Race_TW.user.js)
 
 ![Nome da foto aqui](https://i.imgur.com/a9RoPuz.png)
