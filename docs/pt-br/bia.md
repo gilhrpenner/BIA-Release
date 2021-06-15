@@ -17,6 +17,7 @@ Nesta seção, você encontrará todas as informações de que precisa para come
 -   Os binários x86 e amd64 (x64) são fornecidos para Windows. Observe que a versão ARM do Windows não é compatível
 -   Pentium Dual-Core ou superior, de preferência i3 ou superior
 -   Mínimo de 2 GB de RAM, 4 GB para uma melhor experiência
+-   Privilégios administrativos são necessários para que o bot funcione
 
 #### Mac OS
 

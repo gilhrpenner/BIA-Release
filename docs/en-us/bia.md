@@ -17,6 +17,7 @@ In this section, you will find all information you need to get started and confi
 -   Both x86 and amd64 (x64) binaries are provided for Windows. Please note, the ARM version of Windows is not supported
 -   Pentium Dual-Core or later, preferably an i3 or better
 -   Minimum of 2GB RAM, 4GB for a better experience
+-   Admin privivileges are necessary for the bot to work
 
 #### Mac OS
 
