@@ -251,6 +251,8 @@ Comandos super precisos! Com uma conexão estável você pode enviar comandos t�
 
 Com nossa tabela de comandos, você pode facilmente encontrar, verificar o status, editar e excluir comandos. Também incluímos um emblema único e útil que indica a diferença em segundos entre cada comando para que você possa identificar facilmente os comandos que serão enviados muito próximos. Humanos não podem enviar ataques precisos com segundos de intervalo um do outro, a BIA pode! Portanto, tenha isso em mente e não abuse do sistema, enquanto a BIA é segura e invisível, você ainda pode ser pego se abusar de suas funcionalidades.
 
+Uma outra funcionalidade exclusiva da BIA é o **Cooldown** dos comandos, a BIA classifica os comandos em três cores, vermelho, amarelo e verde e você deve imaginar, vermelho representa perigo, amarelo atenção e verde tudo OK. Comandos marcados em vermelho são enviados a menos de dois segundos de diferença, comandos marcados em amarelo são enviados entre 2 e 10 segundos de diferença e comandos verdes são os comandos que são enviados acima de 10 segundos. Embora a BIA consiga mandar vários comandos por segundo vale lembrar que nós humanos não conseguimos e por isso nós mostramos caso você tenha que tomar a devida atenção para evitar punições no jogo.
+
 ![Comandos](https://api.bia.gg/pt/commands.png)
 
 Também temos atualmente o sistema mais avançado e fácil de usar, você pode criar NTs, definir o alvo da catapulta e muito mais.\

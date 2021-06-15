@@ -251,6 +251,8 @@ Super precise commands, with a stable connection you can send commands as precis
 
 With our commands table you can easily find, check the status, edit and delete commands. We also include a unique and helpful badge that indicates the difference in seconds between each command so you can easily identify commands that are going to be sent too close. Humans can't sent precise attacks within seconds apart of each other, BIA can! So keep that in mind and don't abuse the system, while BIA is safe and invisible you can still get caught you if abuse its capabilities.
 
+Another unique feature of the BIA is the **Cooldown** of the commands, BIA classifies the commands into three colours, red, yellow and green and as you can imagine, red represents danger, yellow attention and green everything OK. Commands marked in red are sent less than two seconds apart, commands marked in yellow are sent between 2 and 10 seconds apart, and green commands are commands that are sent more than 10 seconds apart. Although BIA can send several commands per second, it's worth remembering that we humans can't and that's why we them, so you can take appropriate actions to avoid punishment in the game.
+
 ![Commands](https://api.bia.gg/en/commands.png)
 
 We also have the most advanced and easy-to-use system, you can create nobletrains, set catapult target and much more.\
